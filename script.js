@@ -15,37 +15,37 @@ function changeText() {
     text.textContent = "created by adi11ex";
   }, 20000);
     setTimeout(() => {
-    text.textContent = "какой кринж, хорошо что я пьян";
+    text.textContent = "♥♥♥♥♥ ♥♥♥♥♥ ♥♥♥♥♥ ♥♥♥♥♥ ♥♥♥♥♥";
   }, 17500);
     setTimeout(() => {
-    text.textContent = "с 14 февраля";
+    text.textContent = "Люблю тебя";
   }, 15000);
   setTimeout(() => {
-    text.textContent = "и из всех кого я хотел бы знать";
+    text.textContent = "как хорошое вино, с каждым годом все вкуснее";
   }, 12000);
   setTimeout(() => {
-    text.textContent = "из всех кого я знаю";
+    text.textContent = "с днем рождения солнышко";
   }, 10500);
   setTimeout(() => {
-    text.textContent = "заботливая";
+    text.textContent = "озорять наш мир своим светом";
   }, 9000);
   setTimeout(() => {
-    text.textContent = "обоятельная";
+    text.textContent = "чтобы ты продолжала радовать нас";
   }, 7500);
   setTimeout(() => {
-    text.textContent = "угарная";
+    text.textContent = "чтобы мое солнышко всегда было здоровой";
   }, 6000);
   setTimeout(() => {
-    text.textContent = "приятная";
+    text.textContent = "чтобы ты оставалась такой же красивой";
   }, 4500);
   setTimeout(() => {
-    text.textContent = "милая";
+    text.textContent = "спокойствия - чтобы вогрук тебя была мягкая тишина";
   }, 3000);
   setTimeout(() => {
-    text.textContent = "ты самая";
+    text.textContent = "счастья - ведь ты этого достойна";
   }, 1500);
   setTimeout(() => {
-    text.textContent = "В этот прекраснный день хочу сказать";
+    text.textContent = "тоня, в этот прекраснный день хочу пожелать";
   }, 0);
   
 }
@@ -53,3 +53,4 @@ function changeText() {
 changeText();
 
 text.classList.add('show');
+
